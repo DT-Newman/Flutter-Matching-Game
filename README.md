@@ -3,7 +3,7 @@
 
 ![Flutter matching game](match.gif)
 
-This game was originally created for a scientific outreach event, where children had to try to identify cell organelles and match them correctly to their associated microscopy images.
+This game was originally created for a scientific outreach event, where children had to try to identify cell organelles and match them correctly to their associated function, cartoon and microscopy images.
 
 ## Specifying cards
 
